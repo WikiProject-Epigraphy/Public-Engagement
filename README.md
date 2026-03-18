@@ -4,3 +4,6 @@ This page presents a Wikidata-Learning Hub, developed within the framework of th
 
 Link to the Guide: <link>https://github.com/WikiProject-Epigraphy/Learning-Wikidata/wiki</link>
 [Learning Wikidata Guide](https://github.com/WikiProject-Epigraphy/Learning-Wikidata/wiki)
+
+# Workshop materials
+[...]
